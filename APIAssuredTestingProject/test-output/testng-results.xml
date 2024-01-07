@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T09:01:41 IST" name="Default suite" finished-at="2023-10-16T09:01:44 IST" duration-ms="3978">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T09:01:41 IST" name="Default test" finished-at="2023-10-16T09:01:44 IST" duration-ms="3978">
+      <class name="postexamples.Example1">
+        <test-method signature="testCaseForPost3()[pri:0, instance:postexamples.Example1@fbd1f6]" started-at="2023-10-16T09:01:41 IST" name="testCaseForPost3" finished-at="2023-10-16T09:01:44 IST" duration-ms="3858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseForPost3 -->
+      </class> <!-- postexamples.Example1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
